@@ -30,4 +30,4 @@ GROUP BY caffeine_intake;
 
 data/ – raw dataset  
 queries/ – SQL queries used for analysis  
-slides/ – LinkedIn slides summarizing findings 
+
